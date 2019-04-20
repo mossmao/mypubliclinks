@@ -10,7 +10,7 @@
         {
           "category": "ESP32", 
           "name": "esp32", 
-          "url": "http://13513298.s21d-13.faiusrd.com/0/1/ABUIABBPGAAg8brl5QUomPuPtAQ?f=esp32-1.0.2.zip&v=1555651954", 
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.2/esp32-1.0.2.zip", 
           "checksum": "SHA-256:c3a5a5050705d41ab205d25a7399e921057b754ef8f883419f58c0c7f08df11c", 
           "help": {
             "online": ""
